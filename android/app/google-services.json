@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171258242703",
+    "project_id": "dependable-link-361609",
+    "storage_bucket": "dependable-link-361609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171258242703:android:21e6ca8c4509d4d5ac72fa",
+        "android_client_info": {
+          "package_name": "com.zungu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171258242703-jqvp7hs7uhskh6kjm1h9b3hfaovj2heg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEnsstAxiEbLS_JeHXKRGcuibqYBe_b2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171258242703-jqvp7hs7uhskh6kjm1h9b3hfaovj2heg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2"
+  xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="Layer_1-2">
+    <g>
+      <g>
+        <rect x="60" width="60" height="120" fill="#bebcbd"/>
+        <rect width="60" height="120" fill="#fab200"/>
+      </g>
+      <polygon points="60 8.08 72.83 47.82 114.59 47.74 80.76 72.23 93.74 111.92 60 87.31 26.26 111.92 39.24 72.23 5.41 47.74 47.17 47.82 60 8.08" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
